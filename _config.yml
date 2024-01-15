@@ -29,6 +29,8 @@ url: "https://www.gmm7550.dev"
 #github_username:  gmm-7550
 #repository: GMM-7550/gmm7550-hardware
 
+theme: just-the-docs
+
 # Build settings
 plugins:
   - jekyll-feed
