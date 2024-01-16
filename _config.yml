@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: GMM-7550 FPGA Module
+title: GMM-7550
 email: info@gmm7550.dev
 description: >- # this means to ignore newlines until "baseurl:"
   An FPGA module based on Cologne Chip AG GateMate FPGA
@@ -30,6 +30,8 @@ url: "https://www.gmm7550.dev"
 #repository: GMM-7550/gmm7550-hardware
 
 theme: just-the-docs
+
+search_enabled: false
 
 # Build settings
 plugins:
