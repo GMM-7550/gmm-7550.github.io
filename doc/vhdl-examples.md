@@ -1,7 +1,7 @@
 ---
 title: VHDL Examples
 layout: page
-nav_order: 6
+nav_order: 4
 ---
 # VHDL Design Examples
 

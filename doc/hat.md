@@ -1,6 +1,7 @@
 ---
 title: Raspberry Pi HAT Adapter
 layout: page
+parent: Hardware
 nav_order: 2
 ---
 # Raspberry Pi HAT Adapter

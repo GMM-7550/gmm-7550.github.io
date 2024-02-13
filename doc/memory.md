@@ -1,6 +1,7 @@
 ---
 title: Memory Module
 layout: page
+parent: Hardware
 nav_order: 3
 ---
 # Memory Module

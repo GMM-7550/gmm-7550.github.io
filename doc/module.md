@@ -1,6 +1,8 @@
 ---
 title: FPGA Module
 layout: page
+parent: Hardware
+has_children: true
 nav_order: 1
 ---
 # FPGA Module
