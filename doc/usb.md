@@ -8,4 +8,4 @@ nav_order: 4
 
 *Under development*
 
-<img src="{{ "/assets/images/usb-gmm7550.png" | relative_url }}" width="65%">
+<img src="{{ "/assets/images/usb-gmm7550_preview_3d_2024-10-04.png" | relative_url }}" width="65%">
