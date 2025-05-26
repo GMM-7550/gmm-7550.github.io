@@ -2,7 +2,7 @@
 title: RP2040 USB Adapter
 layout: page
 parent: Hardware
-nav_order: 4
+nav_order: 5
 ---
 # RP2040 USB Adapter
 

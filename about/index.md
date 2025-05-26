@@ -3,7 +3,23 @@ title: About
 layout: page
 nav_order: 1
 ---
-# News
+# Project Updates
+
+##  April 2025 -- NLnet Funding for USB 3 PHY Implementation
+
+[NLnet Foundation](https://nlnet.nl/)
+approved a grant application for a project to evaluate
+a possibility and to imlement a USB 3.2 Gen.1 (5&nbsp;Gbps) PHY based
+on the GateMate FPGA transceiver.
+
+[The project](https://nlnet.nl/project/GateMate-USB3-PHY/)
+includes development of an adapter board for GMM-7550 module
+with a USB Type C connector and an RP2040 micro for configuration and
+control of the GMM-7550 module.
+
+<img src="{{ "/assets/images/nlnet.svg" | relative_url }}" width="15%">
+&nbsp;&nbsp;&nbsp;
+<img src="{{ "/assets/images/ngi0core.svg" | relative_url }}" width="15%">
 
 ## FOSDEM -- 3 &amp; 4 February 2024, Brussels, Belgium
 

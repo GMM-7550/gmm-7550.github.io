@@ -2,7 +2,7 @@
 title: Memory Module
 layout: page
 parent: Hardware
-nav_order: 3
+nav_order: 4
 ---
 # Memory Module
 
