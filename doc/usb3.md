@@ -8,6 +8,12 @@ nav_order: 2
 
 *Under development*
 
+## USB 3 Adapter Block Diagram
+
+<img src="{{ "/assets/images/usb3-adapter-block-diagram.png" | relative_url }}">
+
+---
+
 [<img src="{{ "/assets/images/nlnet.svg" | relative_url }}" width="15%">](https://nlnet.nl/)
 &nbsp;&nbsp;&nbsp;
 <img src="{{ "/assets/images/ngi0core.svg" | relative_url }}" width="15%">
