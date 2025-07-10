@@ -28,6 +28,6 @@ control of the GMM-7550 module.
 
 ## ORConf -- 15 to 17 September 2023, Munich, Germany
 
-- [talk abstract](https://orconf.org/#module-with-colognechip-gatemate-fpga-gmm-7550)
+- [talk abstract](https://archive.orconf.org/2023/#module-with-colognechip-gatemate-fpga-gmm-7550)
 - [presentation slides](https://raw.githubusercontent.com/ak-fau/orconf23/master/gmm-7550/gmm-7550-orconf23_2023-09-15.pdf)
 - [youtube](https://youtu.be/h0ak2YDY-Dk)
