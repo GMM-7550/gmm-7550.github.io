@@ -8,6 +8,13 @@ nav_order: 2
 
 *Under development*
 
+## USB 3 Adapter schematic revision 0.9
+
+A pre-layout version of the schematic is added to
+the project repository.
+
+[USB 3 Adapter revision 0.9](https://github.com/GMM-7550/gmm7550-hardware/blob/master/doc/USB3-GMM-7550_0.9_2025-07-24.pdf)
+
 ## USB 3 Adapter Block Diagram
 
 <img src="{{ "/assets/images/usb3-adapter-block-diagram.png" | relative_url }}">
