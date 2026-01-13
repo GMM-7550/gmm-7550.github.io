@@ -6,14 +6,18 @@ nav_order: 2
 ---
 # Experimental Adapter with USB&nbsp;3 Interface and RP2040 Controller
 
-*Under development*
+*Hardware received from production on 2025-12-23*
 
-## USB 3 Adapter schematic revision 0.9
+|KiCad 3D|Assembled Adapter|
+|:-:|:-:|
+|<img src="{{ "/assets/images/usb3-gmm7550_1.0_2025-10-10.png" | relative_url }}">|<img src="{{ "/assets/images/usb3-gmm7550.jpg" | relative_url }}">|
 
-A pre-layout version of the schematic is added to
+## USB 3 Adapter final schematic (revision 1.0)
+
+Final version of the schematic is added to
 the project repository.
 
-[USB 3 Adapter revision 0.9](https://github.com/GMM-7550/gmm7550-hardware/blob/master/doc/USB3-GMM-7550_0.9_2025-07-24.pdf)
+[USB 3 Adapter](https://github.com/GMM-7550/gmm7550-hardware/blob/master/doc/USB3-GMM-7550_1.0_2025-10-10.pdf)
 
 ## USB 3 Adapter Block Diagram
 
