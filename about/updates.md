@@ -6,6 +6,12 @@ nav_order: 1
 ---
 # Project Updates
 
+## December 2025 -- USB 3 Adapter Hardware is Available
+
+The [USB 3 Adapter]({{ "doc/usb3" | relative_url }}) boards are
+received from production and [RP2040 control firmware]({{ "doc/rp2040" | relative_url }})
+is up and running.
+
 ##  April 2025 -- NLnet Funding for USB 3 PHY Implementation
 
 [NLnet Foundation](https://nlnet.nl/)
