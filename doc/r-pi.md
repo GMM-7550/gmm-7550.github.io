@@ -1,13 +1,13 @@
 ---
-title: Raspberry Py
+title: Raspberry Pi
 layout: page
 parent: Control Software
 nav_order: 1
 ---
-# Raspberry-Py and Vision Five Control Software
+# Raspberry-Pi and Vision Five Control Software
 
 CLI tool to control GateMate FPGA
-module (GMM-7550) from a Raspberry-Py or Vision Five SBC on the HAT adapter board.
+module (GMM-7550) from a Raspberry-Pi or Vision Five SBC on the HAT adapter board.
 
 ## Command Line Options
 
